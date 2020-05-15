@@ -13,5 +13,5 @@ I used Machine Learning algorithms to do a predictive analysis of diabetes. A Ka
 SVM algorithm reached 66.37% accuracy.
 Artificial neural networks algorithm reached 66.37% accuracy.
 Decision Tree algorithm reached 73.27% accuracy.
-SVM algorithm reached 6637% accuracy.
+SVM algorithm reached 66.37% accuracy.
 The best result was Logistic Regression algorithm reached 80.17% accuracy.
