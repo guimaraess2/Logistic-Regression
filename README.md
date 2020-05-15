@@ -14,4 +14,4 @@ SVM algorithm reached 66.37% accuracy
 Artificial neural networks algorithm reached 66.37% accuracy
 Decision Tree algorithm reached 73.27% accuracy
 SVM algorithm reached 6637% accuracy
-Logistic Regression algorithm reached 79.31% accuracy
+The best result was Logistic Regression algorithm reached 80.17% accuracy
