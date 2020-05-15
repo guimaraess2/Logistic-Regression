@@ -10,8 +10,8 @@ With machine learning algorithms, however, suppliers can design personalized int
 
 I used Machine Learning algorithms to do a predictive analysis of diabetes. A Kaggle database was used in which I used several different algorithms to search for the one with the best accuracy
 
-SVM algorithm reached 66.37% accuracy
-Artificial neural networks algorithm reached 66.37% accuracy
-Decision Tree algorithm reached 73.27% accuracy
-SVM algorithm reached 6637% accuracy
-The best result was Logistic Regression algorithm reached 80.17% accuracy
+SVM algorithm reached 66.37% accuracy.
+Artificial neural networks algorithm reached 66.37% accuracy.
+Decision Tree algorithm reached 73.27% accuracy.
+SVM algorithm reached 6637% accuracy.
+The best result was Logistic Regression algorithm reached 80.17% accuracy.
